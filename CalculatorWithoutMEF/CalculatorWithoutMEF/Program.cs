@@ -12,7 +12,10 @@ namespace CalculatorWithoutMEF
         static void Main(string[] args)
         {
             var add = new AddOperation();
-            Console.WriteLine(add.Perform(10, 20));
+            Console.WriteLine("Sum : " + add.Perform(10, 20));
         }
     }
 }
+
+// 1. Operation library
+// 2. Printing 

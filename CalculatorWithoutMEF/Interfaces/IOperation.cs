@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /// https://dailydotnettips.com/working-with-aggregatecatalog-in-mef/
 /// https://docs.microsoft.com/en-us/dotnet/framework/mef/
 /// </summary>
-namespace CalculatorWithoutMEF
+namespace Interfaces
 {
     public interface IOperation
     {
